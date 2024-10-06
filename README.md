@@ -1,12 +1,12 @@
-# Brick Breaker Game
+# Brick Breaker
 
-Welcome to the **Brick Breaker Game**! This is a classic arcade game built using TypeScript, HTML5, and Canvas, where you control a paddle to bounce a ball and break bricks.
+Welcome to the **Brick Breaker**! This is a classic arcade game built using TypeScript, HTML5, and Canvas, where you control a paddle to bounce a ball and break bricks.
 
 ## [Play Now](https://brickbreaker.aronteh.com/)
 
 ## Table of Contents
 
-- [Brick Breaker Game](#brick-breaker-game)
+- [Brick Breaker](#brick-breaker)
   - [Play Now](#play-now)
   - [Table of Contents](#table-of-contents)
   - [Game Description](#game-description)

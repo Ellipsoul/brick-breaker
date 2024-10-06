@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333; /* Dark gray background for contrast */
+}
+
+#gameCanvas {
+  display: block;
+  margin: 20px auto; /* Add some margin for visual appeal */
+  background-color: #000; /* Black background for the game area */
+  border: 2px solid #ffffff; /* White border around the canvas */
+}
